@@ -1,0 +1,50 @@
+/* h1{
+    font-size: 50px;
+    height: 100px;
+    width: 500PX;
+    background-color: aqua;
+    display: inline-block;
+}
+
+input{
+    height: 50px;
+    width: 250px;
+}
+
+p{
+    background-color: blue;
+    width: 500PX;
+}
+
+span{
+    background-color: red;
+    height: 100px;
+    width: 500px;
+} */
+
+#container{
+    border: 2px solid black;
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;    
+    overflow: auto;
+    /* justify-content: center; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* flex-flow: row wrap; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+    /* justify-content: flex-end; */
+    /* height: 100vh; */
+    /* align-items: center; */
+    /* align-items: flex-end; */
+}
+
+.box{
+    border: 1px solid blue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}

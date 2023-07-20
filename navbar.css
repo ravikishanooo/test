@@ -1,0 +1,29 @@
+#navbar{
+    background-color: black;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#logo{
+    font-family: 'Lato', sans-serif;
+}
+
+#menu{
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+    font-size: small;
+}
+
+button{
+    background-color: #0286a9;
+    padding: 6px 17px;
+    border: none;
+    color: white;
+    border-radius: 50px;
+}

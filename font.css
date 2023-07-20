@@ -1,0 +1,21 @@
+h1{
+    /* font-size: xx-small; */
+    font-size: 100px;
+    font-weight: 200;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Lumanosimo', cursive;
+    font-style: italic;
+    background-color: red;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+div{
+    font-family: 'Oswald', sans-serif;
+    color: blue;
+    font-weight: 900;
+    word-spacing: 50px;
+    letter-spacing: 10px;
+    line-height: 50px;
+    
+}
